@@ -1,6 +1,6 @@
 # Task Manager UI
 
-Frontend React para la [Task Manager API](https://github.com/Euchelu/-task-manager-api). Permite crear, editar, completar y eliminar tareas con filtros por estado y prioridad.
+Frontend React para la [Task Manager API](https://github.com/Euchelu/task-manager-api). Permite crear, editar, completar y eliminar tareas con filtros por estado y prioridad.
 
 ## Funcionalidades
 
