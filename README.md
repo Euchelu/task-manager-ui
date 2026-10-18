@@ -34,3 +34,13 @@ npm run dev                 # http://localhost:5173
 ```
 
 El proxy de Vite redirige `/api/*` → `http://localhost:8000/*`.
+
+## Tests
+
+```bash
+npm test                    # Vitest + Testing Library
+```
+
+## CI/CD
+
+GitHub Actions ejecuta lint, tests y build en cada push y pull request, y despliega en GitHub Pages al hacer push a `main`.
